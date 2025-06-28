@@ -37,3 +37,11 @@ To run the project locally:
 1. Clone this repo:
    ```bash
   https://github.com/AshingtonMunene11/Mypersonalwebsite
+
+🙋🏽‍♂️ Author
+&copy; 2025 Ashington Munene 
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
