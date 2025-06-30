@@ -10,7 +10,7 @@ This portfolio is designed to showcase:
 - My growing skill set in HTML, CSS, and JavaScript
 - My passion for blending code with culture, music, and design
 
-## 🛠️ Built With
+## 🛠️ Built With Languages 
 
 - HTML5
 - CSS3 (with Google Fonts integration)
